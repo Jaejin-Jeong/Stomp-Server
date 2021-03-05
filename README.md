@@ -1,6 +1,6 @@
 # Stomp-Server
 
-> Stomp Server implementation and functional test 
+Stomp Server implementation and functional test 
 
 > [Stomp-Client Sample](https://github.com/Jaejin-Jeong/Stomp-Client)
     
