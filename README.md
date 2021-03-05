@@ -2,7 +2,7 @@
 
 > Stomp Server implementation and functional test 
 
-> [Stomp Server Sample](https://github.com/Jaejin-Jeong/Stomp-Client)
+> [Stomp-Client Sample](https://github.com/Jaejin-Jeong/Stomp-Client)
     
 no. | Test Type | Status
 ---|---|---|
